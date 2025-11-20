@@ -58,3 +58,22 @@ GoogleService-Info.plist
 # Node modules (Firebase Functions)
 functions/node_modules/
 functions/.env
+
+# Source code - Keep local, exclude from Git (for showcase repo)
+/lib/
+/android/
+/ios/
+/windows/
+/linux/
+/macos/
+/web/
+/test/
+/functions/
+/assets/
+/build_scripts/
+pubspec.yaml
+pubspec.lock
+analysis_options.yaml
+.metadata
+*.iml
+.claude/
